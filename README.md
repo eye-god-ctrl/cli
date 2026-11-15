@@ -4,8 +4,7 @@
 >
 > **What's different from upstream:**
 > - Upstream sync 2026-10-30 (`f660eb88d`): video-wallpaper support (`VIDEO_EXTENSIONS`, `ffmpeg` first-frame thumbnails, video-aware `set_wallpaper` — #183), Hyprland socket chunk-join fix (#142), black-image colour-score fix (#135).
-> - No fork-specific code yet — this fork currently adds only its own documentation (`AGENTS.md`, `CLAUDE.md`, `DOCS.md`, `NOTES.md`, `VERSIONS.md`).
->
+> >
 > Last synced upstream SHA: `f660eb88d` (2026-10-30) · Full story: [DOCS.md](DOCS.md)
 <!-- fork-notice:end -->
 
