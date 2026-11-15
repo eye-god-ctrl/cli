@@ -5,7 +5,7 @@
 > **What's different from upstream:**
 > - Upstream sync 2026-10-30 (`f660eb88d`): video-wallpaper support (`VIDEO_EXTENSIONS`, `ffmpeg` first-frame thumbnails, video-aware `set_wallpaper` — #183), Hyprland socket chunk-join fix (#142), black-image colour-score fix (#135).
 > >
-> Last synced upstream SHA: `f660eb88d` (2026-10-30) · Full story: [DOCS.md](DOCS.md)
+> Last synced upstream SHA: `9ab901f592917454da396ea012c50dd2c3f37003` (2026-11-15) · Full story: [DOCS.md](DOCS.md)
 <!-- fork-notice:end -->
 
 # caelestia-cli
